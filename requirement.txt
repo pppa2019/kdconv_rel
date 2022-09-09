@@ -1,0 +1,11 @@
+# torch link :https://download.pytorch.org/whl/cu111/torch-1.8.0%2Bcu111-cp37-cp37m-linux_x86_64.whl
+torch
+pandas
+numpy
+gensim
+spacy
+tqdm
+nltk
+tensorboardX
+ipdb
+jieba
